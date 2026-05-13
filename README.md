@@ -33,7 +33,7 @@
 在 Codex 中要求：
 
 ```text
-使用 marketing-decision-serp 分析「牛樟芝」台灣前 30 SERP，品牌 domain 是 bcl.com.tw，blog.bcl.com.tw 也算自有，輸出 Google Sheets 版。
+使用 marketing-decision-serp 分析「膠原蛋白」台灣前 30 SERP，品牌 domain 是 example.com，blog.example.com 也算自有，輸出 Google Sheets 版。
 ```
 
 Skill 會要求先確認品牌 domain，再開始分析。
